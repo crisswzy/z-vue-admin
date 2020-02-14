@@ -1,0 +1,18 @@
+{
+  "brand_name": "Brand Name",
+  "lang": "zh-cn",
+  "nav": {
+    "profile": "个人资料",
+    "log_out": "退出",
+    "dashboard": "仪表盘",
+    "users": "用户管理"
+  },
+  "btn": {
+    "new_user": "新建用户",
+    "disable": "禁用",
+    "enable": "启用",
+    "details": "詳情",
+    "delete": "删除"
+  },
+  "total_items": "總筆數"
+}

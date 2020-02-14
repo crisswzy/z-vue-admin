@@ -1,0 +1,18 @@
+{
+  "brand_name": "Brand Name",
+  "lang": "zh-tw",
+  "nav": {
+    "profile": "個人資料",
+    "log_out": "登出",
+    "dashboard": "儀錶盤",
+    "users": "賬戶管理"
+  },
+  "btn": {
+    "new_user": "新建賬戶",
+    "disable": "禁用",
+    "enable": "啟用",
+    "details": "詳情",
+    "delete": "刪除"
+  },
+  "total_items": "總筆數"
+}

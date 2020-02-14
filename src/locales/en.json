@@ -1,0 +1,18 @@
+{
+  "brand_name": "Brand Name",
+  "lang": "en",
+  "nav": {
+    "profile": "Profile",
+    "log_out": "Log Out",
+    "dashboard": "Dashboard",
+    "users": "Users Management"
+  },
+  "btn": {
+    "new_user": "New User",
+    "disable": "Disable",
+    "enable": "Enable",
+    "details": "Details",
+    "delete": "Delete"
+  },
+  "total_items": "Total"
+}
